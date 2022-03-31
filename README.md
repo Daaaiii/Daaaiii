@@ -17,9 +17,8 @@
  
 <div> 
   <a href="https://www.instagram.com/daaaaaaaiiiii/"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "https://twitter.com/daaaaaaaiiiii"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="" target="_blank"><img src="https://https://img.shields.io/twitter/url?style=social" target="_blank"></a> 
-
+  <a href = "dainha85@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://twitter.com/intent/tweet?text=Wow:&url=https%3A%2F%2Ftwitter.com%2Fdaaaaaaaiiiii"><img alt="Twitter" src="https://img.shields.io/twitter/url?url=https%3A%2F%2Ftwitter.com%2Fdaaaaaaaiiiii"></a>
  
   ![Snake animation](https://github.com/Daaaiii/Daaaiii/blob/output/github-contribution-grid-snake.svg)
 
