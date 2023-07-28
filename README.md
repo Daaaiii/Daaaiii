@@ -29,6 +29,6 @@
  
   
  
-  ![Snake animation](https://github.com/Daaaiii/Daaaiii/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/Daaaiii/Daaaiii/blob/output/github-contribution-grid-snake-dark.svg)
 
 </div>
