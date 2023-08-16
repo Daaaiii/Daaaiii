@@ -289,7 +289,7 @@
 <h1 align="center"> Atividade </h1>
 <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=Daaaiii&theme=tokyo-night&hide_border=true&show_icons=true&custom_title=Grafico%20de%20Contribuicao" />
 <div align="center">
-  <img height="203px" src="https://github-readme-stats.vercel.app/api?username=Daaaiii&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+  <img height="203px" src="https://github-readme-stats.vercel.app/api?username=Daaaiii&theme=tokyonight&include_all_commits=true&count_private=true&show_icons=true" />
   <img height="203px" src="https://streak-stats.demolab.com?user=Daaaiii&theme=tokyonight" />
 </div>
 <div align = "center">
