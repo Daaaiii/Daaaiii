@@ -2,7 +2,9 @@
 
  <img align="center" alt="Frases de Grandes Nomes da Área de Tecnologia" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
  <hr>
- <h1>Olá, eu sou a Daiane 🖥️.</h1>
+ 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Mouse+Memoirs&size=65&pause=500&color=bf91f3&vCenter=true&width=600&height=70&lines=Hi+There!!!!;I+am+Daiane+Bolzan+.;backend+web+developer.)](https://git.io/typing-svg)
+
  <hr>
 
 <h1 align="center"> Sobre Mim </h1>
