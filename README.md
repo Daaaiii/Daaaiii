@@ -1,16 +1,18 @@
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.2/css/all.min.css" integrity="sha512-z3gLpd7yknf1YoNbCzqRKc4qyor8gaKU1qmn+CShxbuBusANI9QpRohGBreCFkKxLhei6S9CQXFEbbKuqLg0DA==" crossorigin="anonymous" referrerpolicy="no-referrer" />
 
- <img align="center" alt="Frases de Grandes Nomes da Área de Tecnologia" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+
  <hr>
  
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Mouse+Memoirs&size=65&pause=500&color=bf91f3&vCenter=true&width=600&height=70&lines=Hi+There!!!!;I+am+Daiane+Bolzan+.;backend+web+developer.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Mouse+Memoirs&size=65&pause=500&color=bf91f3&vCenter=true&width=600&height=70&lines=Hi+There!!!!;I+am+Daiane+Bolzan+.;Backend+developer.)](https://git.io/typing-svg)
 
  <hr>
-
+ <div align="center">
+  <img align="center" alt="Frases de Grandes Nomes da Área de Tecnologia" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+ </div>
 <h1 align="center"> Sobre Mim </h1>
 
 <ul align="left">
-  <li> Apaixonada por Programação,Nerd 🤓, jardineira amadora 🌷, adoradora de café ☕, amante da literatura 📖.</li>
+  <li> Apaixonada por Programação, nerd 🤓, jardineira amadora 🌷, adoradora de café ☕, amante da literatura 📖.</li>
   <li>💻 Estudei no <a href="https://github.com/devemdobro" target="_blank">DevQuest</a>, <a href="https://cubos.academy/" target="_blank">Cubos Academy</a> e <a href="https://www.dio.me" target="_blank">DIO</a>. 
   <li>🔭 Atualmente estou em transição de carreira para o Desenvolvimento de Software Web backend, frontend ou full stack.</li>
   <li>🔮 .Tenho conhecimento em programação com <strong>Nodejs, HTML, CSS, React, Javascript, API RESTful, Express, postgreSQL (banco de dados), versionamento de código com Git/GitHub</strong> e também já fiz alguns projetos utilizando <strong> Nextjs </strong>. </li>
@@ -19,7 +21,7 @@
   <li>🚀Vou iniciar em mais uma bolsa de estudos do <strong> Santander </strong>, desta vez, com desenvolvimento Full Stack <strong>Java + Angular</strong>. </li>
   <li>Também tenho algum conhecimento de <strong> Python e Django </strong>.</li>
  
-  <li>🇺🇸 Tenho inglês avançado.</li>
+   <li> Tenho <strong> inglês </strong> e <strong> espanhol </strong> avançados.</li>
   <li>🎮 Curto jogar <a href="https://play.google.com/store/apps/details?id=com.igg.android.mobileroyale&hl=pt_BR&gl=US&pli=1" target="_blank">Mobile Royale</a></li>
   </ul>
  
@@ -275,36 +277,38 @@
 <hr/>
 <h1 align="center"> Social </h1>
 <p align="center" >
-<a href="mailto:daiane.bolzan@hotmail.com">
-<img height="50px" src="https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=FF00F6&color:FFF">
-</a>
 <a href="https://www.linkedin.com/in/daiane-deponti-bolzan/">
 <img height="50px" src="https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6&color:FFF">
 </a>
 <a href="https://www.instagram.com/daaaaaaaiiiii/">
 <img height="50px"  src="https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=FF00F6&color:FFF"></a>
-    &nbsp;
+ <a href="mailto:daiane.bolzan@hotmail.com">
+<img height="50px" src="https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=FF00F6&color:FFF">
+</a>
 </p>
 <br/><br/>
 <hr/>
 
 <h1 align="center"> Atividade </h1>
 <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=Daaaiii&theme=tokyo-night&hide_border=true&show_icons=true&custom_title=Grafico%20de%20Contribuicao" />
-<div align="center">
-  <img height="203px" src="https://github-readme-stats.vercel.app/api?username=Daaaiii&theme=tokyonight&include_all_commits=true&count_private=true&show_icons=true" />
-  <img height="203px" src="https://streak-stats.demolab.com?user=Daaaiii&theme=tokyonight" />
-</div>
-<div align = "center">
-<img src= "https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Daaaiii&theme=tokyonight">
 
+ 
+<div align="center">
+ <img  align="right" width= "450px" src= "https://github-readme-stats.vercel.app/api/top-langs/?username=Daaaiii&theme=tokyonight&layout=pie" />
 </div>
-<br/>
+
+<div align= "center" >
+ <br/><br/><br/>
+ <img height="203px" width= "450px" align="left"  src="https://github-readme-stats.vercel.app/api?username=Daaaiii&theme=tokyonight&include_all_commits=true&count_private=true&show_icons=true" />  
+<img height="203px" width= "450px" align="left" src="https://streak-stats.demolab.com?user=Daaaiii&theme=tokyonight" />
+</div>
+
+
+<br/><br/><br/><br/>
+ 
+![snake gif](https://github.com/Daaaiii/Daaaiii/blob/output/github-contribution-grid-snake-dark.svg)
 
 <div align="center">
   <img src="https://visitor-badge.feriirawann.repl.co/?username=Daaaiii&repo=Daaaiii&style=for-the-badge&label=Visitantes&logo=OpenTelemetry&color=527BBF&contentType=svg" alt="Contador de Visitas do Perfil no Github da Daaaiii" height="40px" />
 </div>
-
- 
-![snake gif](https://github.com/Daaaiii/Daaaiii/blob/output/github-contribution-grid-snake-dark.svg)
-
 
