@@ -27,6 +27,10 @@
  
     
 <hr/>
+<h1 align="center">Estudando agora</h1>
+<div align="center" >
+ <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 50px; margin-bottom: 0px;" /><img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 50px; margin-bottom: 0px;" /><img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 0px; margin-bottom: 0px;" />
+</div>
 
 <h1 align="center"> Minha Stack </h1>
 
@@ -34,7 +38,7 @@
   <tr>
     <td align="center">
       <a href="https://pt-br.reactjs.org/">
-        <img src="https://skillicons.dev/icons?i=react" width="65px" alt="React icon"/><br/>
+        <img src="https://techstack-generator.vercel.app/react-icon.svg" width="65px" alt="React icon"/><br/>
         <sub>
           <b>
             <pre>React.js</pre>
@@ -54,7 +58,7 @@
     </td>
     <td align="center">
       <a href="https://www.typescriptlang.org/">
-        <img src="https://skillicons.dev/icons?i=ts" width="65px" alt="Typescript icon"/><br/>
+        <img src="https://techstack-generator.vercel.app/ts-icon.svg" width="65px" alt="Typescript icon"/><br/>
         <sub>
           <b>
             <pre>Typescript</pre>
@@ -64,7 +68,7 @@
     </td>
     <td align="center">
       <a href="https://aws.amazon.com/">
-        <img src="https://skillicons.dev/icons?i=aws" width="65px" alt="AWS icon"/><br/>
+        <img src="https://techstack-generator.vercel.app/aws-icon.svg" width="65px" alt="AWS icon"/><br/>
         <sub>
           <b>
             <pre>AWS</pre>
@@ -158,7 +162,7 @@
     </td>
     <td align="center">
       <a href="https://redux.js.org/">
-        <img src="https://skillicons.dev/icons?i=redux" width="65px" alt="Redux icon"/><br/>
+        <img src="https://techstack-generator.vercel.app/redux-icon.svg" width="65px" alt="Redux icon"/><br/>
         <sub>
           <b>
             <pre>Redux<br/>Toolkit</pre>
@@ -178,7 +182,7 @@
     </td>
         <td align="center">
       <a href="https://www.python.org/">
-        <img src="https://skillicons.dev/icons?i=py" width="65px" alt="Python icon"/><br/>
+        <img src="https://techstack-generator.vercel.app/python-icon.svg" width="65px" alt="Python icon"/><br/>
         <sub>
           <b>
             <pre>Python</pre>
@@ -190,7 +194,7 @@
   <tr>
     <td align="center">
       <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/">
-        <img src="https://skillicons.dev/icons?i=js" width="65px" alt="Javascript icon"/><br/>
+        <img src="https://techstack-generator.vercel.app/js-icon.svg" width="65px" alt="Javascript icon"/><br/>
         <sub>
           <b>
             <pre>Javascript</pre>
@@ -242,7 +246,7 @@
      <tr>
         <td align="center">
       <a href="https://www.djangoproject.com/">
-        <img src="https://skillicons.dev/icons?i=django" width="65px" alt="Django icon"/><br/>
+        <img src="https://techstack-generator.vercel.app/django-icon.svg" width="65px" alt="Django icon"/><br/>
         <sub>
           <b>
             <pre>Django</pre>
@@ -252,7 +256,7 @@
     </td>
      <td align="center">
       <a href="https://jestjs.io/pt-BR/">
-        <img src="https://skillicons.dev/icons?i=jest" width="65px" alt="Jest icon"/><br/>
+        <img src="https://techstack-generator.vercel.app/jest-icon.svg" width="65px" alt="Jest icon"/><br/>
         <sub>
           <b>
             <pre>Jest</pre>
@@ -294,13 +298,13 @@
 
  
 <div align="center">
- <img  align="right" width= "450px" src= "https://github-readme-stats.vercel.app/api/top-langs/?username=Daaaiii&theme=tokyonight&layout=pie" />
+ <img  align="right" width= "370px" src= "https://github-readme-stats.vercel.app/api/top-langs/?username=Daaaiii&theme=tokyonight&layout=pie" />
 </div>
 
 <div align= "center" >
  <br/><br/><br/>
- <img height="203px" width= "450px" align="left"  src="https://github-readme-stats.vercel.app/api?username=Daaaiii&theme=tokyonight&include_all_commits=true&count_private=true&show_icons=true" />  
-<img height="203px" width= "450px" align="left" src="https://streak-stats.demolab.com?user=Daaaiii&theme=tokyonight" />
+ <img height="203px" width= "370px" align="left"  src="https://github-readme-stats.vercel.app/api?username=Daaaiii&theme=tokyonight&include_all_commits=true&count_private=true&show_icons=true" />  
+<img height="203px" width= "370px" align="left" src="https://streak-stats.demolab.com?user=Daaaiii&theme=tokyonight" />
 </div>
 
 
