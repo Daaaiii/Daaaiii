@@ -30,6 +30,7 @@
 <h1 align="center">Estudando agora</h1>
 <div align="center" >
  <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 50px; margin-bottom: 0px;" /><img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 50px; margin-bottom: 0px;" /><img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 0px; margin-bottom: 0px;" />
+ <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 0px; margin-bottom: 0px;" />
 </div>
 
 <h1 align="center"> Minha Stack </h1>
@@ -270,6 +271,17 @@
         <sub>
           <b>
             <pre>Postman</pre>
+          </b>
+        </sub>
+      </a>
+    </td>
+      </td>
+         <td align="center">
+      <a href="https://nestjs.com/">
+        <img src="https://skillicons.dev/icons?i=nestjs" width="65px" alt="nestjs icon"/><br/>
+        <sub>
+          <b>
+            <pre>Nest.js</pre>
           </b>
         </sub>
       </a>
