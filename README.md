@@ -318,6 +318,12 @@
  <img height="203px" width= "370px" align="left"  src="https://github-readme-stats.vercel.app/api?username=Daaaiii&theme=tokyonight&include_all_commits=true&count_private=true&show_icons=true" />  
 <img height="203px" width= "370px" align="left" src="https://streak-stats.demolab.com?user=Daaaiii&theme=tokyonight&include_all_commits=true" />
 </div>
+<div align="center" width= "370px"> 
+ 
+ [![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Daaaiii)](https://github.com/Daaaiii/github-readme-stats)
+
+
+</div>
 
 
 <br/><br/><br/><br/>
