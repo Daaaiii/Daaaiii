@@ -286,6 +286,16 @@
         </sub>
       </a>
     </td>
+         <td align="center">
+      <a href="https://vuejs.org/">
+        <img src="https://skillicons.dev/icons?i=vuejs" width="65px" alt="vuejs icon"/><br/>
+        <sub>
+          <b>
+            <pre>Vue.js</pre>
+          </b>
+        </sub>
+      </a>
+    </td>
     </tr>
 </table>
 
