@@ -1,6 +1,5 @@
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.2/css/all.min.css" integrity="sha512-z3gLpd7yknf1YoNbCzqRKc4qyor8gaKU1qmn+CShxbuBusANI9QpRohGBreCFkKxLhei6S9CQXFEbbKuqLg0DA==" crossorigin="anonymous" referrerpolicy="no-referrer" />
 
-
  <hr>
  
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Mouse+Memoirs&size=65&pause=500&color=bf91f3&vCenter=true&width=600&height=70&lines=Hi+There!!!!;I+am+Daiane+Bolzan+.;Backend+developer.)](https://git.io/typing-svg)
@@ -13,24 +12,23 @@
 
 <ul align="left">
   <li> Apaixonada por Programação, nerd 🤓, jardineira amadora 🌷, adoradora de café ☕, amante da literatura 📖.</li>
-  <li>💻 Estudei no <a href="https://github.com/devemdobro" target="_blank">DevQuest</a>, <a href="https://cubos.academy/" target="_blank">Cubos Academy</a> e <a href="https://www.dio.me" target="_blank">DIO</a>. 
+  <li>💻 Estudei no <a href="https://github.com/devemdobro" target="_blank">DevQuest</a>, <a href="https://cubos.academy/" target="_blank">Cubos Academy</a>, <a href="https://www.dio.me" target="_blank">DIO</a> e <a href="https://imatech.io/programas/sharp-coders" target="_blank">SharpCoders</a>. 
   <li>🔭 Atualmente estou em transição de carreira para o Desenvolvimento de Software Web backend, frontend ou full stack.</li>
   <li>🔮 .Tenho conhecimento em programação com <strong>Nodejs, HTML, CSS, React, Javascript, API RESTful, Express, postgreSQL (banco de dados), versionamento de código com Git/GitHub</strong> e também já fiz alguns projetos utilizando <strong> Nextjs </strong>. </li>
-  <li>🚀Atualmente tenho me aprofundado no conhecimento sobre tecnologias backend com uma bolsa de estudos do <strong> iFood/Potência Tech e Cubos Academy</strong>. </li>
+  <li>🚀Aprofundei meus conhecimentos sobre tecnologias backend com uma bolsa de estudos do <strong> iFood/Potência Tech e Cubos Academy</strong>. </li>
   <li>🚀Também participei do <strong>Bootcamp sobre Nuvem AWS da Nexa Resources </strong> em parceria com a DIO e aprendi sobre os vários produtos cloud disponibilizados pela AWS. 
-  <li>🚀Vou iniciar em mais uma bolsa de estudos do <strong> Santander </strong>, desta vez, com desenvolvimento Full Stack <strong>Java + Angular</strong>. </li>
-  <li>Também tenho algum conhecimento de <strong> Python e Django </strong>.</li>
  
    <li> Tenho <strong> inglês </strong> e <strong> espanhol </strong> avançados.</li>
-  <li>🎮 Curto jogar <a href="https://play.google.com/store/apps/details?id=com.igg.android.mobileroyale&hl=pt_BR&gl=US&pli=1" target="_blank">Mobile Royale</a></li>
+  <li>🎮 Curto jogar <a href="https://play.google.com/store/apps/details?id=com.igg.android.mobileroyale&hl=pt_BR&gl=US&pli=1" target="_blank">Mobile Royale.</a></li>
   </ul>
  
     
 <hr/>
 <h1 align="center">Estudando agora</h1>
 <div align="center" >
- <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 50px; margin-bottom: 0px;" /><img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 50px; margin-bottom: 0px;" /><img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 0px; margin-bottom: 0px;" />
- <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 0px; margin-bottom: 0px;" />
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" alt="angular" width="65" style="width: 65px; height: 65px; margin-right: 50px; margin-bottom: 0px;"/> 
+ <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 50px; margin-bottom: 0px;" />
+ <img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 0px; margin-bottom: 0px;" /> 
 </div>
 
 <h1 align="center"> Minha Stack </h1>
@@ -77,7 +75,7 @@
         </sub>
       </a>
     </td>
-        <td align="center">
+    <td align="center">
       <a href="https://www.prisma.io/">
         <img src="https://skillicons.dev/icons?i=prisma" width="65px" alt="Prisma icon"/><br/>
         <sub>
@@ -88,8 +86,8 @@
       </a>
     </td>    
   </tr>
-    <tr>
-        <td align="center">
+  <tr>
+    <td align="center">
       <a href="https://www.postgresql.org/">
         <img src="https://skillicons.dev/icons?i=postgresql" width="65px" alt="Postgresql icon"/><br/>
         <sub>
@@ -101,12 +99,12 @@
     </td>
     <td align="center">
       <a href="https://tailwindcss.com/">
-      <img src="https://skillicons.dev/icons?i=tailwind" width="65px" alt="Tailwind icon"/><br/>
-      <sub>
-        <b>
-          <pre>Tailwind<br/>CSS</pre>
-        </b>
-      </sub>
+        <img src="https://skillicons.dev/icons?i=tailwind" width="65px" alt="Tailwind icon"/><br/>
+        <sub>
+          <b>
+            <pre>Tailwind<br/>CSS</pre>
+          </b>
+        </sub>
       </a>
     </td>
     <td align="center">
@@ -131,19 +129,19 @@
     </td>
     <td align="center">
       <a href="https://getbootstrap.com/">
-      <img src="https://skillicons.dev/icons?i=bootstrap" width="65px" alt="Bootstrap icon"/><br/>
-      <sub>
-        <b>
+        <img src="https://skillicons.dev/icons?i=bootstrap" width="65px" alt="Bootstrap icon"/><br/>
+        <sub>
+          <b>
           <pre>Bootstrap</pre>
-        </b>
-      </sub>
+          </b>
+        </sub>
       </a>
     </td>
   </tr>
   <tr>    
     <td align="center">
       <a href="https://styled-components.com/">
-        <img src="https://skillicons.dev/icons?i=styledcomponents" width="60px" alt="Styled Components icon"/><br/>
+        <img src="https://skillicons.dev/icons?i=styledcomponents" width="65px" alt="Styled Components icon"/><br/>
         <sub>
           <b>
             <pre>Styled<br/>Components</pre>
@@ -181,7 +179,7 @@
         </sub>
       </a>
     </td>
-        <td align="center">
+    <td align="center">
       <a href="https://www.python.org/">
         <img src="https://techstack-generator.vercel.app/python-icon.svg" width="65px" alt="Python icon"/><br/>
         <sub>
@@ -205,7 +203,7 @@
     </td>
     <td align="center">
       <a href="https://developer.mozilla.org/en-US/docs/Web/CSS/">
-        <img src="https://skillicons.dev/icons?i=css" width="65px" alt="CSS3 icon"/><br/>
+        <img src="https://skillicons.dev/icons?i=css" width="65px" alt="CSS3 icon"><br/>
         <sub>
           <b>
             <pre>CSS3</pre>
@@ -255,7 +253,7 @@
         </sub>
       </a>
     </td>
-     <td align="center">
+    <td align="center">
       <a href="https://jestjs.io/pt-BR/">
         <img src="https://techstack-generator.vercel.app/jest-icon.svg" width="65px" alt="Jest icon"/><br/>
         <sub>
@@ -265,7 +263,7 @@
         </sub>
       </a>
     </td>
-         <td align="center">
+    <td align="center">
       <a href="https://www.postman.com/">
         <img src="https://skillicons.dev/icons?i=postman" width="65px" alt="Postman icon"/><br/>
         <sub>
@@ -275,8 +273,7 @@
         </sub>
       </a>
     </td>
-      </td>
-         <td align="center">
+    <td align="center">
       <a href="https://nestjs.com/">
         <img src="https://skillicons.dev/icons?i=nestjs" width="65px" alt="nestjs icon"/><br/>
         <sub>
@@ -286,7 +283,7 @@
         </sub>
       </a>
     </td>
-         <td align="center">
+    <td align="center">
       <a href="https://vuejs.org/">
         <img src="https://skillicons.dev/icons?i=vuejs" width="65px" alt="vuejs icon"/><br/>
         <sub>
@@ -296,10 +293,63 @@
         </sub>
       </a>
     </td>
-    </tr>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://angular.io/">        
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg"  width="65px" alt="React icon"/><br/>
+       <sub>
+          <b>
+            <pre>Angular</pre>
+          </b>
+        </sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://www.mysql.com/">
+        <img src="https://techstack-generator.vercel.app/restapi-icon.svg"  width="65px" alt=" icon"/><br/>
+        <sub>
+          <b>
+            <pre>REST API</pre>
+          </b>
+        </sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://www.mysql.com/">
+        <img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="65px" alt="mysql icon"/><br/>
+        <sub>
+          <b>
+            <pre>MySQL</pre>
+          </b>
+        </sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://dotnet.microsoft.com/pt-br/languages/csharp">
+        <img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="c# icon" width="65" /><br/>
+        <sub>
+          <b>
+            <pre>C#</pre>
+          </b>
+        </sub>
+      </a>
+    </td>
+    <td align="center">
+       <a href="https://www.docker.com/">
+        <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 0px; margin-bottom: 0px;" /><br/>
+        <sub>
+          <b>
+            <pre>Docker</pre>
+          </b>
+        </sub>
+      </a>
+    </td>    
+  </tr>
 </table>
 
 <br/><br/><br/>
+
 <hr/>
 <h1 align="center"> Social </h1>
 <p align="center" >
@@ -318,7 +368,6 @@
 <h1 align="center"> Atividade </h1>
 <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=Daaaiii&theme=tokyo-night&hide_border=true&show_icons=true&custom_title=Grafico%20de%20Contribuicao" />
 
- 
 <div align="center">
  <img  align="right" width= "370px" src= "https://github-readme-stats.vercel.app/api/top-langs/?username=Daaaiii&theme=tokyonight&layout=pie&include_all_commits=true" />
 </div>
@@ -330,17 +379,14 @@
 </div>
 <div align="center" width= "370px"> 
  
- [![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Daaaiii)](https://github.com/Daaaiii/github-readme-stats)
-
+ [![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Daaaiii&theme=tokyonight)](https://github.com/Daaaiii/github-readme-stats)
 
 </div>
 
-
 <br/><br/><br/><br/>
- 
+
 ![snake gif](https://github.com/Daaaiii/Daaaiii/blob/output/github-contribution-grid-snake-dark.svg)
 
 <div align="center">
   <img src="https://visitor-badge.feriirawann.repl.co/?username=Daaaiii&repo=Daaaiii&style=for-the-badge&label=Visitantes&logo=OpenTelemetry&color=527BBF&contentType=svg" alt="Contador de Visitas do Perfil no Github da Daaaiii" height="40px" />
 </div>
-
