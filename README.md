@@ -12,12 +12,11 @@
 
 <ul align="left">
   <li> Apaixonada por Programação, nerd 🤓, jardineira amadora 🌷, adoradora de café ☕, amante da literatura 📖.</li>
-  <li>💻 Estudei no <a href="https://github.com/devemdobro" target="_blank">DevQuest</a>, <a href="https://cubos.academy/" target="_blank">Cubos Academy</a>, <a href="https://www.dio.me" target="_blank">DIO</a> e <a href="https://imatech.io/programas/sharp-coders" target="_blank">SharpCoders</a>. 
-  <li>🔭 Atualmente estou em transição de carreira para o Desenvolvimento de Software Web backend, frontend ou full stack.</li>
-  <li>🔮 .Tenho conhecimento em programação com <strong>Nodejs, HTML, CSS, React, Javascript, API RESTful, Express, postgreSQL (banco de dados), versionamento de código com Git/GitHub</strong> e também já fiz alguns projetos utilizando <strong> Nextjs </strong>. </li>
+ <li> Estudante de <strong>Análise e Desenvolvimento de Sistemas: Full-Stack e Mobile </strong> na <a href="https://www.pucrs.br/" target="_blank" >PUCRS</a>. </li>
+  <li>💻 Estudei no <a href="https://github.com/devemdobro" target="_blank">DevQuest</a>, <a href="https://cubos.academy/" target="_blank">Cubos Academy</a>, <a href="https://www.dio.me" target="_blank">DIO</a>,  <a href="https://imatech.io/programas/sharp-coders" target="_blank">SharpCoders</a> e <a href="https://www.oracle.com/br/education/oracle-next-education/">Alura ONE</a>. 
+  <li>🔭 Atualmente estou em transição de carreira para o Desenvolvimento de Software backend ou full stack.</li>
   <li>🚀Aprofundei meus conhecimentos sobre tecnologias backend com uma bolsa de estudos do <strong> iFood/Potência Tech e Cubos Academy</strong>. </li>
-  <li>🚀Também participei do <strong>Bootcamp sobre Nuvem AWS da Nexa Resources </strong> em parceria com a DIO e aprendi sobre os vários produtos cloud disponibilizados pela AWS. 
- 
+  <li>🚀Também participei do <strong>Bootcamp sobre Nuvem AWS da Nexa Resources </strong> em parceria com a DIO e aprendi sobre os vários produtos cloud disponibilizados pela AWS.  
    <li> Tenho <strong> inglês </strong> e <strong> espanhol </strong> avançados.</li>
   <li>🎮 Curto jogar <a href="https://play.google.com/store/apps/details?id=com.igg.android.mobileroyale&hl=pt_BR&gl=US&pli=1" target="_blank">Mobile Royale.</a></li>
   </ul>
@@ -26,7 +25,8 @@
 <hr/>
 <h1 align="center">Estudando agora</h1>
 <div align="center" >
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" alt="angular" width="65" style="width: 65px; height: 65px; margin-right: 50px; margin-bottom: 0px;"/> 
+ 
+ <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="python" width="65" style="width: 65px; height: 65px; margin-right: 50px; margin-bottom: 0px;"/> 
  <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 50px; margin-bottom: 0px;" />
  <img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 0px; margin-bottom: 0px;" /> 
 </div>
@@ -356,7 +356,7 @@
 <a href="https://www.linkedin.com/in/daiane-deponti-bolzan/" target="_blank">
 <img height="50px" src="https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6&color:FFF">
 </a>
-<a href="https://www.instagram.com/daaaaaaaiiiii/"target="_blank">
+<a href="https://www.instagram.com/daaaaaaaiiiii/" target="_blank">
 <img height="50px"  src="https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=FF00F6&color:FFF"></a>
  <a href="mailto:daiane.bolzan@hotmail.com" target="_blank">
 <img height="50px" src="https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=FF00F6&color:FFF">
