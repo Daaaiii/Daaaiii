@@ -361,6 +361,9 @@
  <a href="mailto:daiane.bolzan@hotmail.com">
 <img height="50px" src="https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=FF00F6&color:FFF">
 </a>
+ <a href="https://twitter.com/BolzanDai">
+  <img height="50px" src="https://img.shields.io/badge/-Twitter-000?style=for-the-badge&logo=Twitter&logoColor=FF00F6&color:FFF">
+ </a>
 </p>
 <br/><br/>
 <hr/>
