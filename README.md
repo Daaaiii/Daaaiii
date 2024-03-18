@@ -353,15 +353,15 @@
 <hr/>
 <h1 align="center"> Social </h1>
 <p align="center" >
-<a href="https://www.linkedin.com/in/daiane-deponti-bolzan/">
+<a href="https://www.linkedin.com/in/daiane-deponti-bolzan/" target="_blank">
 <img height="50px" src="https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6&color:FFF">
 </a>
-<a href="https://www.instagram.com/daaaaaaaiiiii/">
+<a href="https://www.instagram.com/daaaaaaaiiiii/"target="_blank">
 <img height="50px"  src="https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=FF00F6&color:FFF"></a>
- <a href="mailto:daiane.bolzan@hotmail.com">
+ <a href="mailto:daiane.bolzan@hotmail.com" target="_blank">
 <img height="50px" src="https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=FF00F6&color:FFF">
 </a>
- <a href="https://twitter.com/BolzanDai">
+ <a href="https://twitter.com/BolzanDai" target="_blank">
   <img height="50px" src="https://img.shields.io/badge/-Twitter-000?style=for-the-badge&logo=Twitter&logoColor=FF00F6&color:FFF">
  </a>
 </p>
