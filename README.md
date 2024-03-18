@@ -390,5 +390,5 @@
 
 ![snake gif](https://github.com/Daaaiii/Daaaiii/blob/output/github-contribution-grid-snake-dark.svg)
 
-  <div align=center><a href='https://www.counter12.com'><img src='https://www.counter12.com/img-1ZZ5Cdd3C5YyY6yb-33.gif' border='0' alt='estatisticas gratis'></a></div>
+
 </div>
