@@ -1,3 +1,4 @@
+
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.2/css/all.min.css" integrity="sha512-z3gLpd7yknf1YoNbCzqRKc4qyor8gaKU1qmn+CShxbuBusANI9QpRohGBreCFkKxLhei6S9CQXFEbbKuqLg0DA==" crossorigin="anonymous" referrerpolicy="no-referrer" />
 
  <hr>
@@ -384,10 +385,10 @@
  
  [![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Daaaiii&theme=tokyonight)](https://github.com/Daaaiii/github-readme-stats)
 
+<img align="center" height="40px" src="https://komarev.com/ghpvc/?username=Daaaiii&color=9932cc"><br>
 </div>
 
 <br/><br/><br/><br/>
-
 ![snake gif](https://github.com/Daaaiii/Daaaiii/blob/output/github-contribution-grid-snake-dark.svg)
 
 
