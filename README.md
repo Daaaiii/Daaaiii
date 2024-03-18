@@ -390,6 +390,5 @@
 
 ![snake gif](https://github.com/Daaaiii/Daaaiii/blob/output/github-contribution-grid-snake-dark.svg)
 
-<div align="center">
-  <img src="https://visitor-badge.feriirawann.repl.co/?username=Daaaiii&repo=Daaaiii&style=for-the-badge&label=Visitantes&logo=OpenTelemetry&color=527BBF&contentType=svg" alt="Contador de Visitas do Perfil no Github da Daaaiii" height="40px" />
+  <div align=center><a href='https://www.counter12.com'><img src='https://www.counter12.com/img-1ZZ5Cdd3C5YyY6yb-33.gif' border='0' alt='estatisticas gratis'></a></div>
 </div>
